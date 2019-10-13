@@ -1,6 +1,7 @@
 # project-2019-fundda
 GMIT Fundamentals of Data Analysis Assignment<br>
 Last commit due 29th November 2019.<br>
+The module is taught to students at GMIT. The lecturer is Ian McLoughlin.https://ianmcloughlin.github.io/
 
 
 
@@ -41,3 +42,5 @@ Python Code File Name | Description
 
 Jupyter Notebook: An Introduction  by Mike Driscoll  Jan 28, 2019<br>
 https://realpython.com/jupyter-notebook-introduction/ <br>
+What is Descriptive Statistics and How Data Visualization Can Transform Your Data June 25, 2019<br>
+https://www.import.io/post/what-is-descriptive-statistics-and-how-data-visualization-can-transform-your-data/<br>
