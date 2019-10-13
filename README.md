@@ -44,3 +44,5 @@ Jupyter Notebook: An Introduction  by Mike Driscoll  Jan 28, 2019<br>
 https://realpython.com/jupyter-notebook-introduction/ <br>
 What is Descriptive Statistics and How Data Visualization Can Transform Your Data June 25, 2019<br>
 https://www.import.io/post/what-is-descriptive-statistics-and-how-data-visualization-can-transform-your-data/<br>
+Python Seaborn Tutorial: What is Seaborn and How to Use it? Jul 08, by Wajiha Urooj<br>
+https://www.edureka.co/blog/python-seaborn-tutorial/#dependencies<br>
