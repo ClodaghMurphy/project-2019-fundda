@@ -46,3 +46,5 @@ What is Descriptive Statistics and How Data Visualization Can Transform Your Dat
 https://www.import.io/post/what-is-descriptive-statistics-and-how-data-visualization-can-transform-your-data/<br>
 Python Seaborn Tutorial: What is Seaborn and How to Use it? Jul 08, by Wajiha Urooj<br>
 https://www.edureka.co/blog/python-seaborn-tutorial/#dependencies<br>
+pandas 0.25.1 documentation <br>
+https://pandas.pydata.org/pandas-docs/version/0.25/reference/frame.html<br>
