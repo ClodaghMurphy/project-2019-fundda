@@ -34,7 +34,8 @@ You are running the Jupyter server and can use it to open and engage with my rep
 Python Code File Name | Description
 ------------ | -------------
 1Analysis  | Loads a segment of hardcoded data into a dataframe
-2Analysis | Reads a text file into a dataframe
+2Analysis | Reads a text file into a datafr
+
 3Analysis | Top and tail the list
 
 
@@ -49,3 +50,7 @@ https://www.edureka.co/blog/python-seaborn-tutorial/#dependencies<br>
 pandas 0.25.1 documentation <br>
 https://pandas.pydata.org/pandas-docs/version/0.25/reference/frame.html<br>
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html<br>
+seaborn_tips_dataset
+https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset<br>
+An introduction to seaborn<br>
+https://seaborn.pydata.org/introduction.htmlame<br>
