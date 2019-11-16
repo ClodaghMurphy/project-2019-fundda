@@ -40,6 +40,9 @@ You are running the Jupyter server and can use it to open and engage with my rep
 An introduction to seaborn<br>
 https://seaborn.pydata.org/introduction.htmlame<br>
 
+Data Viz : A modest essay on the dataset "tips"<br>
+https://www.kaggle.com/ssouhassou/data-viz-a-modest-essay-on-the-dataset-tips<br>
+
 Data visualization for beginners – Part 1<br>
 https://www.hackerearth.com/blog/developers/data-visualization-techniques/<br>
 
