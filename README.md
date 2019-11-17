@@ -58,6 +58,9 @@ https://amitkushwaha.co.in/data-visualization-part-1.html<br>
 Facetting histograms by subsets of data<br>
 https://seaborn.pydata.org/examples/faceted_histogram.html<br>
 
+Data Analysis Data Wrangling Tutorial<br>
+https://dfrieds.com/data-analysis/groupby-python-pandas<br>
+
 Grouped violinplots with split violins<br>
 https://seaborn.pydata.org/examples/grouped_violinplots.html<br>
 
@@ -83,6 +86,9 @@ https://www.youtube.com/watch?v=V_a0-1lU4AU<br>
 
 Seaborn Understanding the Weird Parts: jointplot<br>
 https://www.youtube.com/watch?v=i6iUCs0D9nk<br>
+
+Waiters & Waitresses<br>
+https://datausa.io/profile/soc/waiters-waitresses#demographics<br>
 
 What is Descriptive Statistics and How Data Visualization Can Transform Your Data June 25, 2019<br>
 https://www.import.io/post/what-is-descriptive-statistics-and-how-data-visualization-can-transform-your-data/<br>
