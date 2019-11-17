@@ -37,6 +37,9 @@ You are running the Jupyter server and can use it to open and engage with my rep
 
 ## 4. References used in completing the project
 
+5 reasons you should use a violin graph<br>
+https://blog.bioturing.com/2018/05/16/5-reasons-you-should-use-a-violin-graph/<br>
+
 An introduction to seaborn<br>
 https://seaborn.pydata.org/introduction.htmlame<br>
 
@@ -51,6 +54,12 @@ https://amitkushwaha.co.in/data-visualization-part-1.html<br>
 
 Different types of charts<br>
 https://amitkushwaha.co.in/data-visualization-part-1.html<br>
+
+Facetting histograms by subsets of data<br>
+https://seaborn.pydata.org/examples/faceted_histogram.html<br>
+
+Grouped violinplots with split violins<br>
+https://seaborn.pydata.org/examples/grouped_violinplots.html<br>
 
 How do you change the size of figures drawn with matplotlib?<br>
 https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
@@ -68,6 +77,9 @@ https://www.edureka.co/blog/python-seaborn-tutorial/#dependencies<br>
 
 seaborn_tips_dataset
 https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset<br>
+
+Seaborn Understanding the Weird Parts: facetgrid<br>
+https://www.youtube.com/watch?v=V_a0-1lU4AU<br>
 
 Seaborn Understanding the Weird Parts: jointplot<br>
 https://www.youtube.com/watch?v=i6iUCs0D9nk<br>
