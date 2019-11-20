@@ -33,9 +33,10 @@ http://localhost:8888/?token=XXXXXYYYYY123456789<br>
 Chrome and firefox are the optimal web browsers to use and you may need to copy the url into one of these instead of using the default<br> pop-up.<br>
 You are running the Jupyter server and can use it to open and engage with my repository contents.<br>
 
+## 4. Summary of the Assessment
 
 
-## 4. References used in completing the project
+## 5. References used in completing the project
 
 5 reasons you should use a violin graph<br>
 https://blog.bioturing.com/2018/05/16/5-reasons-you-should-use-a-violin-graph/<br>
