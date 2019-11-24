@@ -35,6 +35,28 @@ You are running the Jupyter server and can use it to open and engage with my rep
 
 ## 4. Summary of the Assessment
 
+In this Jupyter Notebook:
+
+I have used descriptive statistics and plots to describe the tips datasetusing numpy, matplotlib and seaborn libraries.
+Discussed and analysed whether there is a relationship between the total bill and tip amount.
+Analysed the relationship between the variables within the dataset when gender is taken into account.
+
+Building on other people's work on the tips dataset (links included in Section 5 below) and using pandas, numpy, matplotlib and seaborn,I have extracted information from the 'tips' dataset which supports the following findings:
+### Total Bill
+Largest amount spent on a meal is on Saturday
+Total bills paid by males are roughly twice as high during the dinner period
+The majority of bills are $10-$15
+### Gender
+The average bill paid by males is higher than that paid by females.
+More bills with a higher value are paid by men overall
+### Smoker V Non-Smoker
+There are more customers that are non-smokers than there are smokers (roughly 60/40)
+### Tips
+Tips are predominantly in the range from $1 - $5
+The most common tip is $2.
+The tip value increases based on the total bill.
+The highest tip percentage (19.69) was by females for lunch on Friday
+
 
 ## 5. References used in completing the project
 
