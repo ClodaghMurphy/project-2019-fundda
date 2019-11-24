@@ -88,6 +88,9 @@ https://www.youtube.com/watch?v=V_a0-1lU4AU<br>
 Seaborn Understanding the Weird Parts: jointplot<br>
 https://www.youtube.com/watch?v=i6iUCs0D9nk<br>
 
+The State of the gender pay gap 2019
+https://www.payscale.com/data/gender-pay-gap<br>
+
 Waiters & Waitresses<br>
 https://datausa.io/profile/soc/waiters-waitresses#demographics<br>
 
